@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ramos-rod! I'm a 24 years old Brazilian college student currently studying Data Analysis and coursing Big Data & Analytic Intelligence.
+- 👋 Hi, I’m @ramos-rod! I'm a 24 years old Internationalist from Brazil currently studying Data Analysis and coursing Big Data & Analytic Intelligence.
 - 👀 I’m interested in Data Analysis, Business Intelligence and AI.
 - 🌱 I’m currently learning Python, SQL, R and Excel + PowerBI
 - 💞️ I’m looking to collaborate on begginer Data Analyze projects!
